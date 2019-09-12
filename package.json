@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/capnNash/github-comp/issues"
   },
-  "homepage": "https://github.com/capnNash/github-comp#readme"
+  "homepage": "https://github.com/capnNash/github-comp#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
